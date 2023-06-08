@@ -1,0 +1,5 @@
+<launch>
+<node name="user1_node" pkg="chatroom" type="publisher1_node"></node>
+<node name="user2_node" pkg="chatroom" type="publisher2_node"></node>
+<node name="user3_node" pkg="chatroom" type="publisher3_node"></node>
+</launch>
